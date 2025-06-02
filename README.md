@@ -1,3 +1,13 @@
+[Screencast From 2025-06-03 02-24-01.webm](https://github.com/user-attachments/assets/a5067674-473a-4320-98a3-bdfeb9dd6f6b)
+
+```bash
+yarn install
+npx vite dev
+
+```
+
+
+
 # sv
 
 Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
